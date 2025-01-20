@@ -1,2 +1,2 @@
 # Scientific-Calculator-JavaScript
-Scientific Calculator in JavaScript By Code Explained
+Scientific Calculator in JavaScript By Vinay Shetty
